@@ -10,4 +10,4 @@ This is a square Masque skin meant to match the actionbars found in older versio
 
 ## Connect
 - Discord: [discord.gg/RwcSm8V3Dy](https://discord.gg/RwcSm8V3Dy)
-- Twitter: [@goldpawsstuff](https://twitter.com/goldpawsstuff)
+- Twitter: [@goldpawsstuff](https://x.com/goldpawsstuff)

@@ -8,7 +8,7 @@ end
 local GetAddOnMetadata = GetAddOnMetadata or C_AddOns and C_AddOns.GetAddOnMetadata
 
 local VERSION = GetAddOnMetadata(ADDON, "Version")
-local MASQUE_VERSION = 80100
+local MASQUE_VERSION = 120001
 
 local path = [[Interface\AddOns\]] .. ADDON .. [[\media\]]
 local BLANK = [[Interface\ChatFrame\ChatFrameBackground]]
